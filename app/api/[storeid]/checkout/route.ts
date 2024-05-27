@@ -39,7 +39,7 @@ export async function POST(
             // Change this when quantity needs to be updated
             quantity: 1,
             price_data: {
-                currency: 'USD',
+                currency: 'INR',
                 product_data: {
                     name:product.name
                 },
